@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8032962-4a79-44d7-89df-96375f0de3e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/book-recommender-system.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Books.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book recm .ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/popular.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requriements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similarity_score.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/recommend.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +39,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/91639/Downloads/book-recommender-system-master/book-recommender-system-master",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
@@ -141,7 +127,7 @@
       <workItem from="1771969593275" duration="479000" />
       <workItem from="1772431507214" duration="754000" />
       <workItem from="1772689691010" duration="519000" />
-      <workItem from="1772690371791" duration="1252000" />
+      <workItem from="1772690371791" duration="1977000" />
     </task>
     <servers />
   </component>
